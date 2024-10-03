@@ -1,12 +1,6 @@
 def pascal_triangle(n):
     """
     Returns a list of lists of integers representing the Pascal’s triangle of n.
-    
-    Args:
-    n (int): The number of levels in Pascal's triangle.
-    
-    Returns:
-    List[List[int]]: A list of lists of integers representing Pascal's triangle.
     """
     if n <= 0:
         return []
