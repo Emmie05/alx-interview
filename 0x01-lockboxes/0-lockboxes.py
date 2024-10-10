@@ -5,6 +5,9 @@
 
 
 def canUnlockAll(boxes):
+    """
+    lockboxes
+    """
     n = len(boxes)
     
     opened = set()
