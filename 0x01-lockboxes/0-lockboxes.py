@@ -3,6 +3,7 @@
 0-lockboxes.py
 """
 
+
 def canUnlockAll(boxes):
     n = len(boxes)
     
